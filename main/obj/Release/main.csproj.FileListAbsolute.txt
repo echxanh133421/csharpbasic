@@ -1,0 +1,8 @@
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\bin\Release\main.exe.config
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\bin\Release\main.exe
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\bin\Release\main.pdb
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Release\main.csproj.AssemblyReference.cache
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Release\main.csproj.SuggestedBindingRedirects.cache
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Release\main.csproj.CoreCompileInputs.cache
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Release\main.exe
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Release\main.pdb

@@ -1,0 +1,8 @@
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\bin\Debug\main.exe.config
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\bin\Debug\main.exe
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\bin\Debug\main.pdb
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Debug\main.csproj.AssemblyReference.cache
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Debug\main.csproj.SuggestedBindingRedirects.cache
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Debug\main.exe
+E:\c# cơ bản\bai tap lap trinh csharp co ban\main\obj\Debug\main.pdb
